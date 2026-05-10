@@ -81,9 +81,9 @@ npm run dev
 
 | Member | Folder | Screens |
 |--------|--------|---------|
-| Member 1 | `frontend/src/pages-member1/` | Login, Signup, Dashboard, My Trips, Create Trip, Packing, Profile, 404 |
-| Member 2 | `frontend/src/pages-member2/` | Itinerary Builder, Itinerary View, City Search, Activity Modal, Budget, Shared View, Notes, Admin |
-| Member 3 | `backend/` | Express API, PostgreSQL models, JWT auth, all REST routes |
+| Tarun(Member 1) | `frontend/src/pages-member1/` | Login, Signup, Dashboard, My Trips, Create Trip, Packing, Profile, 404 |
+| Abanikant(Member 2) | `frontend/src/pages-member2/` | Itinerary Builder, Itinerary View, City Search, Activity Modal, Budget, Shared View, Notes, Admin |
+| Runak(Member 3) | `backend/` | Express API, PostgreSQL models, JWT auth, all REST routes |
 
 ---
 
