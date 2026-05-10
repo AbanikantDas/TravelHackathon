@@ -1,0 +1,25 @@
+# Dependency folders — never commit these
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Build output
+frontend/dist/
+frontend/.vite/
+
+# Environment variables — keep secrets out of git
+backend/.env
+frontend/.env
+frontend/.env.local
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
